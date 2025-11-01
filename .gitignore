@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-.env
-.env.local
 .env.production.local
 .env.development.local
+config.bat
